@@ -45,22 +45,22 @@
  * GPIO config
 **/
 #ifndef EPD_SCK_PIN
-#define EPD_SCK_PIN  13
+#define EPD_SCK_PIN  12
 #endif
 #ifndef EPD_MOSI_PIN
-#define EPD_MOSI_PIN 14
+#define EPD_MOSI_PIN 11
 #endif
 #ifndef EPD_CS_PIN
-#define EPD_CS_PIN   15
+#define EPD_CS_PIN   10
 #endif
 #ifndef EPD_RST_PIN
-#define EPD_RST_PIN  26
+#define EPD_RST_PIN  8
 #endif
 #ifndef EPD_DC_PIN
-#define EPD_DC_PIN   27
+#define EPD_DC_PIN   9
 #endif
 #ifndef EPD_BUSY_PIN
-#define EPD_BUSY_PIN 25
+#define EPD_BUSY_PIN 7
 #endif
 
 #define GPIO_PIN_SET   1
