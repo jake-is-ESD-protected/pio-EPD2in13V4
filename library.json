@@ -1,12 +1,12 @@
 {
-    "name": "pio-EPD2in13bV4",
+    "name": "pio-EPD2in13V4",
     "version": "0.0.1",
-    "description": "PlatformIO compatible WaveShare EPD2in13b-V4 driver",
+    "description": "PlatformIO compatible WaveShare EPD2in13-V4 driver",
     "keywords": "e-paper, WaveShare",
     "repository":
     {
       "type": "git",
-      "url": "https://github.com/jake-is-ESD-protected/pio-EPD2in13bV4"
+      "url": "https://github.com/jake-is-ESD-protected/pio-EPD2in13V4"
     },
     "authors":
     [
@@ -26,8 +26,8 @@
         "includeDir": ".",
         "flags": [
           "-I src",
-          "-I lib/2in13bV4",
-          "-I lib/2in13bV4/utility"
+          "-I lib/2in13V4",
+          "-I lib/2in13V4/utility"
         ]
       }
   }

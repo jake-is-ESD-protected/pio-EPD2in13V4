@@ -4,7 +4,7 @@
 * | Function    :	
 *----------------
 * |	This version:   V1.0
-* | Date        :   2022-04-26
+* | Date        :   2018-10-23
 * | Info        :
 *
 #
@@ -32,8 +32,7 @@
 #ifndef _IMAGEDATA_H_
 #define _IMAGEDATA_H_
 
-extern const unsigned char gImage_2in13b_V4b[];
-extern const unsigned char gImage_2in13b_V4r[];
+extern const unsigned char gImage_2in13[];
 
 #endif
 /* FILE END */

@@ -10,5 +10,5 @@ Put the following line in your `platformio.ini`:
 ...
 [your-env]
 ...
-lib_deps = https://github.com/jake-is-ESD-protected/pio-EPD2in13bV4
+lib_deps = https://github.com/jake-is-ESD-protected/pio-EPD2in13V4
 ```
